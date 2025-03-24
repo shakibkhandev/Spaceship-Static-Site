@@ -1,4 +1,4 @@
-[Visit True Fitness](https://spaceshipweb.netlify.app/)
+[Visit Spaceship](https://spaceshipweb.netlify.app/)
 
 <br>
 # Desktop Screen
